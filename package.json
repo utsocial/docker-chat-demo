@@ -1,0 +1,27 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Companion repo for this article: [  Lessons from Building a Node App in Docker](http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdleesmiller/docker-chat-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdleesmiller/docker-chat-demo/issues"
+  },
+  "homepage": "https://github.com/jdleesmiller/docker-chat-demo#readme"
+}
